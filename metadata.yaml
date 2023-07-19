@@ -1,0 +1,33 @@
+_repo: Taiteilijan-avioliitto-b-Pariisilaisia-kuvia_71102
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Halonen, K.
+    gutenberg_agent_id: '56076'
+    url: http://www.gutenberg.org/2009/agents/56076
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_issued: '2023-07-03'
+identifiers:
+  gutenberg: '71102'
+language: fi
+pgterms:marc905: 20221125061655daudet
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bH. W. Marjamaa, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Taiteilijan avioliitto : $b Pariisilaisia kuvia'
+url: http://www.gutenberg.org/ebooks/71102
