@@ -5,6 +5,9 @@ contributor:
     agent_name: Halonen, K.
     gutenberg_agent_id: '56076'
     url: http://www.gutenberg.org/2009/agents/56076
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71102#Taiteilijan-avioliitto-b-Pariisilaisia-kuvia
 gutenberg_issued: '2023-07-03'
 identifiers:
   gutenberg: '71102'
